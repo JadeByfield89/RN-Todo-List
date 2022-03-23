@@ -17,6 +17,6 @@ Sample React Native App as part of my training and aim to practice basic concept
 # Things not covered (that I would like to learn)
 - Working with an external API/network layer
 - How animations work
-- Common design patterns/structural set ups for RN apps. MVVM, MVP etc is common on Android
+- Common design patterns/structural set ups for RN apps. MVVM, MVP etc are common on Android
 - Accessing device hardware like camera or sensors
 - Permissions
