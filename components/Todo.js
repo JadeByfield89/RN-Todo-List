@@ -3,7 +3,7 @@ import { TouchableOpacity, View, Text, StyleSheet } from "react-native";
 export default Todo = ({
   todoTitle,
   todoDone,
-  updateTodo: updateTodo,
+  updateTodoDone,
   indexTodo,
   deleteTodo,
 }) => {
@@ -18,7 +18,7 @@ export default Todo = ({
       <TouchableOpacity
         style={styleBtnUpdate}
         onPress={() => {
-          updateTodo(indexTodo);
+          updateTodoDone(indexTodo);
         }}
       >
         <Text style={styles.textUpdateBtn}>{titleBtn}</Text>

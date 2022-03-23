@@ -66,7 +66,7 @@ export default function App() {
           data={todoList}
           renderItem={({ item, index }) => (
             <Todo
-              nameTodo={item.name}
+              todoTitle={item.name}
               todoDone={item.done}
               indexTodo={index}
               deleteTodo={deleteTodo}

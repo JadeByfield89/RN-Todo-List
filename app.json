@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Todolist-ReactNative",
-    "slug": "Todolist-ReactNative",
+    "name": "RN-Todo-List",
+    "slug": "RN-Todo-List",
     "version": "1.0.0",
     "orientation": "portrait",
     "splash": {
